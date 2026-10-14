@@ -1,4 +1,8 @@
 # Password-Strength-Checker
+
+IMPORTANT: Just because your password comes up in a databreach does not mean YOUR account is associated with it. This program analyses all different data breaches including OTHER peoples passwords. Therefore the password may be from another users account.
+
+
 Rates Your Password Whilst Checking If Any Databreaches Have occured with it.
 
 Hi, I'm Scepter, and I've created a password security analyser.
