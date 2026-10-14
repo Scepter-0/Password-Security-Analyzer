@@ -1,10 +1,9 @@
 # Password-Strength-Checker
 Rates Your Password Whilst Checking If Any Databreaches Have occured with it.
 
+Hi, I'm Scepter, and I've created a password security analyser.
 
+The program will check whether your password has shown up in major public data breaches using the "Have I Been Pwned" API
 
-Hi, Im Scepter and I've created a password strength checker :D.
+Security is of utmost priority for me; therefore, I have used SHA-1 to hash the local input of the password before it's sent to the "Have I Been Pwned" API.
 
-It will check whether your password has shown up in major public databreaches using the "Have I been pwned api"
-
-I hope this helps. Have a good day :D
